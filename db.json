@@ -1,0 +1,23 @@
+{ "product" : [
+                {"id":1,"name":"African bush squirrel","category":"Orange"},
+                {"id":2,"name":"Robin, kalahari scrub","category":"Green"},
+                {"id":3,"name":"Hornbill, southern ground","category":"Teal"},
+                {"id":4,"name":"Land iguana","category":"Mauv"},
+                {"id":5,"name":"Antelope ground squirrel","category":"Pink"},
+                {"id":6,"name":"Marmot, hoary","category":"Purple"},
+                {"id":7,"name":"Civet, small-toothed palm","category":"Red"},
+                {"id":8,"name":"Brolga crane","category":"Fuscia"},
+                {"id":9,"name":"Monitor lizard (unidentified)","category":"Indigo"},
+                {"id":10,"name":"Wombat, southern hairy-nosed","category":"Red"},
+                {"id":11,"name":"Siskin, pine","category":"Crimson"},
+                {"id":12,"name":"Monkey, bleeding heart","category":"Blue"},
+                {"id":13,"name":"Sacred ibis","category":"Khaki"},
+                {"id":14,"name":"Desert spiny lizard","category":"Crimson"},
+                {"id":15,"name":"Bulbul, african red-eyed","category":"Aquamarine"},
+                {"id":16,"name":"Swallow (unidentified)","category":"Violet"},
+                {"id":17,"name":"Southern black-backed gull","category":"Indigo"},
+                {"id":18,"name":"Gull, herring","category":"Red"},
+                {"id":19,"name":"Skink, blue-tongued","category":"Khaki"},
+                {"id":20,"name":"American bison","category":"Red"}
+              ]
+}
